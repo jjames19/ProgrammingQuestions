@@ -1,6 +1,6 @@
 # Final Exam - Programming Questions
 
-Your name:  `INSERT YOUR NAME HERE`
+Your name:  Jonithan James 100343571
 
 ## Getting Started
 
